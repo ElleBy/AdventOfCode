@@ -10,6 +10,7 @@ import java.util.stream.Collectors;
 /*
 Day one of 2021 advent of code
 Part 1 - count the number of times a depth measurement increases
+Part 2 - get sums of a 'three-measurement sliding window', find out how many times this increases
  */
 public class DayOne {
 
